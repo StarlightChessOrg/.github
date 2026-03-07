@@ -1,1 +1,1 @@
-# StarlightChessOrg
+# Starlight Chess Organization
